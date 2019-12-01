@@ -1,2 +1,2 @@
-# C-E-itim
+# C# Eğitim
 C# Eğitim için Örnek Proje
