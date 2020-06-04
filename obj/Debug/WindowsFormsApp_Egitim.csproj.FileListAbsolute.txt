@@ -17,3 +17,23 @@ D:\Burak Güzel\Works\C#\Eğitim\WindowsFormsApp_Egitim\obj\Debug\WindowsFormsAp
 D:\Burak Güzel\Works\C#\Eğitim\WindowsFormsApp_Egitim\obj\Debug\WindowsFormsApp_Egitim.UserControl_Log.resources
 D:\Burak Güzel\Works\C#\Eğitim\WindowsFormsApp_Egitim\bin\Debug\netchartdir.dll
 D:\Burak Güzel\Works\C#\Eğitim\WindowsFormsApp_Egitim\obj\Debug\WindowsFormsApp_Egitim.csproj.CopyComplete
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\bin\Debug\WindowsFormsApp_Egitim.exe.config
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\bin\Debug\WindowsFormsApp_Egitim.exe
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\bin\Debug\WindowsFormsApp_Egitim.pdb
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\bin\Debug\tr-TR\WindowsFormsApp_Egitim.resources.dll
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\bin\Debug\netchartdir.dll
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.csprojAssemblyReference.cache
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.Form1.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.Properties.Resources.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.Resource1.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.UserControl_Kontrol.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.UserControl_Log.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.UserControl_Menu.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.UserControl_Veri.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.Form1.tr-TR.resources
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.csproj.GenerateResource.cache
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.csproj.CoreCompileInputs.cache
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\tr-TR\WindowsFormsApp_Egitim.resources.dll
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.csproj.CopyComplete
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.exe
+D:\saidburakguzel\Projects\Practice\C#\Github\C-E-itim\obj\Debug\WindowsFormsApp_Egitim.pdb
